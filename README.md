@@ -55,17 +55,52 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 ### Minha Tarefa Real
 
 _Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
-
+É uma tarefa simples, mas básica, todos os dias necessito escrever um texto em diversas situações específicas, mas que é interessante utilizar o padrão que a DIO estabeleceu:
 ### Meus Atalhos
 
 _Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
+Adaptei o prompt: Escrever e Melhorar Textos
+CONTEXTO
+Estou escrevendo para [público/situação].
 
+INSTRUÇÃO
+Ajude a [escrever / revisar / reorganizar / simplificar] o conteúdo abaixo.
+
+OBJETIVO
+Quero que a pessoa entenda [resultado desejado].
+
+FORMATO
+Entregue em [e-mail / mensagem / post / texto curto / tópicos], com tom [direto / profissional / informal / didático].
+
+CONTEÚDO BASE
+[cole aqui suas ideias, fatos ou rascunho]
 ```text
 Cole aqui o seu primeiro atalho, já adaptado.
+CONTEXTO
+Estou escrevendo para minha equipe de trabalho.
+
+INSTRUÇÃO
+Ajude a revisar e deixar a mensagem mais clara.
+
+OBJETIVO
+Quero informar uma mudança de prazo sem causar confusão.
+
+FORMATO
+Entregue como mensagem curta, com tom profissional e direto.
+
+CONTEÚDO BASE
+Pessoal o cliente pediu mais ajustes e vamos precisar entregar na sexta ao invés de quarta.
 ```
 
 ```text
 Cole aqui o seu segundo atalho, já adaptado.
+Pessoal,
+
+O cliente solicitou alguns ajustes adicionais no projeto. Por esse motivo, o prazo de entrega foi alterado de quarta-feira para sexta-feira.
+
+Conto com a colaboração de todos para concluirmos as atividades dentro do novo cronograma.
+
+Obrigado!
 ```
 
 ### Minha Delegação

@@ -106,17 +106,49 @@ Obrigado!
 ### Minha Delegação
 
 ```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
-```
+Objetivo:
+Melhorar a clareza e a qualidade de mensagens profissionais.
+
+Contexto:
+Preciso escrever comunicações frequentes para equipe, clientes e parceiros.
+
+Recursos:
+Prompt "Escrever e Melhorar Textos" do kit de IA.
+
+Limites:
+Não alterar informações importantes, datas ou prazos.
+
+Critério de sucesso:
+Gerar uma mensagem clara, profissional e objetiva.
 
 ### O Plano da IA
 
 _Cole o print do plano e conte o que você ajustou antes de a IA começar._
+A IA sugeriu revisar a gramática, reorganizar as informações e apresentar a mensagem de forma mais objetiva antes de gerar a versão final.
+Resultado gerado pela IA:
+
+Pessoal,
+
+O cliente solicitou alguns ajustes adicionais no projeto. Por esse motivo, o prazo de entrega foi alterado de quarta-feira para sexta-feira.
+
+Conto com a colaboração de todos para concluirmos as atividades dentro do novo cronograma.
+
+Obrigado!
 
 ### O Resultado
 
 _Cole o print do resultado e conte como você conferiu antes de usar._
+Pessoal,
 
+O cliente solicitou ajustes adicionais no projeto. Por esse motivo, o prazo de entrega foi alterado de quarta-feira para sexta-feira.
+
+Conto com a colaboração de todos para concluirmos as atividades dentro do novo cronograma.
+
+Em caso de dúvidas, estou à disposição.
+
+Obrigado!
 ### Como Foi para Você
 
 _Conte em poucas linhas o que mudou no seu dia a dia._
+Conferi o texto gerado pela IA e realizei um pequeno ajuste para adicionar uma frase de disponibilidade para esclarecimentos. O restante da mensagem atendeu ao objetivo de comunicar a mudança de prazo de forma clara e profissional.
+No meu dia a dia, realizo esse tipo de atividade com frequência, muitas vezes de forma automática. Este exercício me ajudou a perceber a importância de refletir sobre o processo utilizado, pois isso contribui para a criação de padrões mais consistentes e para a melhoria contínua dos prompts que utilizo.
